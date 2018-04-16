@@ -1,0 +1,42 @@
+dir: ./Template/LHC13T/
+rs: 13000
+lum: 3000
+corr: 1.2
+kgg: 0.1
+Nevnt: 4200000
+hbin: 100
+Nloop: 1000
+fitopt: LMNQ
+fmin: 330
+fmax: 360
+sig_dir: 0.07176430386 
+sig_one: 0.01050956831
+sig_two: 0.0001157760777
+files_dir:
+ - Direct.dat
+ - Direct.dat2
+files_one:
+ - OneF.dat
+files_two:
+ - TwoF.dat
+files_sig:
+ - Tab_173.0_1.00.dat
+files_template:
+ - Tab_173.0_0.25.dat
+ - Tab_173.0_0.50.dat
+ - Tab_173.0_0.75.dat
+ - Tab_173.0_1.00.dat
+ - Tab_173.0_1.25.dat
+ - Tab_173.0_1.40.dat
+ - Tab_173.0_1.50.dat
+ - Tab_173.0_1.60.dat
+ - Tab_173.0_1.75.dat
+ - Tab_173.0_2.00.dat
+ - Tab_173.0_2.25.dat
+ - Tab_173.0_2.50.dat
+ - Tab_173.0_2.75.dat
+ - Tab_173.0_3.00.dat
+ - Tab_173.0_3.25.dat
+ - Tab_173.0_3.50.dat
+ - Tab_173.0_3.75.dat
+ - Tab_173.0_4.00.dat

@@ -1,0 +1,57 @@
+dir: ./Template/LHC13T/
+rs: 13000
+lum: 3000
+corr: 1.2
+kgg: 0.1
+Nevnt: 515000
+hbin: 100
+Nloop: 1000
+fitopt: LMNQR
+fmin: 330
+fmax: 360
+sig_dir: 0.07176430386 
+sig_one: 0.01050956831
+sig_two: 0.0001157760777
+files_dir:
+ - Direct.dat
+ - Direct.dat2
+files_one:
+ - OneF.dat
+files_two:
+ - TwoF.dat
+files_sig:
+ - Tab_173.0_1.50.dat
+files_template:
+ - Tab_160.0_1.50.dat
+ - Tab_161.0_1.50.dat
+ - Tab_162.0_1.50.dat
+ - Tab_163.0_1.50.dat
+ - Tab_164.0_1.50.dat
+ - Tab_165.0_1.50.dat
+ - Tab_166.0_1.50.dat
+ - Tab_167.0_1.50.dat
+ - Tab_168.0_1.50.dat
+ - Tab_169.0_1.50.dat
+ - Tab_170.0_1.50.dat
+ - Tab_171.0_1.50.dat
+ - Tab_171.5_1.50.dat
+ - Tab_172.0_1.50.dat
+ - Tab_172.5_1.50.dat
+ - Tab_173.0_1.50.dat
+ - Tab_173.5_1.50.dat
+ - Tab_174.0_1.50.dat
+ - Tab_174.5_1.50.dat
+ - Tab_175.0_1.50.dat
+ - Tab_176.0_1.50.dat
+ - Tab_177.0_1.50.dat
+ - Tab_178.0_1.50.dat
+ - Tab_179.0_1.50.dat
+ - Tab_180.0_1.50.dat
+ - Tab_181.0_1.50.dat
+ - Tab_182.0_1.50.dat
+ - Tab_183.0_1.50.dat
+ - Tab_184.0_1.50.dat
+ - Tab_185.0_1.50.dat
+ - Tab_186.0_1.50.dat
+ - Tab_187.0_1.50.dat
+ - Tab_188.0_1.50.dat

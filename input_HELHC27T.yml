@@ -1,0 +1,54 @@
+dir: ./Template/HELHC27T/
+rs:  27000
+lum: 15000
+corr: 1.9
+kgg: 0.1
+hbin: 100
+fitopt: LMNQ
+fmin: 330
+fmax: 360
+sig_dir: 0.1467378
+sig_one: 0.0315466
+sig_two: 0.0004217
+files_dir:
+ - DirectT.dat
+ - DirectT.dat2
+ - DirectT.dat3
+files_one:
+ - OneFT.dat
+ - OneFT.dat2
+ - OneFT.dat3
+files_two:
+ - TwoFT.dat
+ - TwoFT.dat2
+ - TwoFT.dat3
+files_sig:
+ - Tab_173.0_1.50.dat
+files_template:
+ - Tab_170.0_1.50.dat
+ - Tab_171.0_1.50.dat
+ - Tab_171.5_1.50.dat
+ - Tab_172.0_1.50.dat
+ - Tab_172.1_1.50.dat
+ - Tab_172.2_1.50.dat
+ - Tab_172.3_1.50.dat
+ - Tab_172.4_1.50.dat
+ - Tab_172.5_1.50.dat
+ - Tab_172.6_1.50.dat
+ - Tab_172.7_1.50.dat
+ - Tab_172.8_1.50.dat
+ - Tab_172.9_1.50.dat
+ - Tab_173.0_1.50.dat
+ - Tab_173.1_1.50.dat
+ - Tab_173.2_1.50.dat
+ - Tab_173.3_1.50.dat
+ - Tab_173.4_1.50.dat
+ - Tab_173.5_1.50.dat
+ - Tab_173.6_1.50.dat
+ - Tab_173.7_1.50.dat
+ - Tab_173.8_1.50.dat
+ - Tab_173.9_1.50.dat
+ - Tab_174.0_1.50.dat
+ - Tab_174.5_1.50.dat
+ - Tab_175.0_1.50.dat
+ - Tab_176.0_1.50.dat
