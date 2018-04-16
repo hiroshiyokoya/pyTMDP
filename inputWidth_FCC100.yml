@@ -1,0 +1,51 @@
+dir: ./Template/FCC100/
+rs: 100000
+lum: 10000
+corr: 1.2
+kgg: 0.3
+hbin: 100
+fitopt: LMNQ
+fmin: 330
+fmax: 360
+sig_dir: 0.507068482
+sig_one: 0.1292490652
+sig_two: 0.001542952587
+files_dir:
+ - Direct.dat
+ - Direct.dat2
+files_one:
+ - OneF.dat
+files_two:
+ - TwoF.dat
+files_sig:
+ - Tab_173.0_1.50.dat
+files_template:
+ - Tab_173.0_0.50.dat
+ - Tab_173.0_0.625.dat
+ - Tab_173.0_0.75.dat
+ - Tab_173.0_0.875.dat
+ - Tab_173.0_1.00.dat
+ - Tab_173.0_1.10.dat
+ - Tab_173.0_1.125.dat
+ - Tab_173.0_1.20.dat
+ - Tab_173.0_1.30.dat
+ - Tab_173.0_1.375.dat
+ - Tab_173.0_1.40.dat
+ - Tab_173.0_1.50.dat
+ - Tab_173.0_1.60.dat
+ - Tab_173.0_1.625.dat
+ - Tab_173.0_1.70.dat
+ - Tab_173.0_1.80.dat
+ - Tab_173.0_1.875.dat
+ - Tab_173.0_1.90.dat
+ - Tab_173.0_2.00.dat
+ - Tab_173.0_2.125.dat
+ - Tab_173.0_2.25.dat
+ - Tab_173.0_2.375.dat
+ - Tab_173.0_2.50.dat
+ - Tab_173.0_2.75.dat
+ - Tab_173.0_3.00.dat
+ - Tab_173.0_3.25.dat
+ - Tab_173.0_3.50.dat
+ - Tab_173.0_3.75.dat
+ - Tab_173.0_4.00.dat
